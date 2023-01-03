@@ -4,9 +4,7 @@
     "name": "Leads tracker",
     "action": {
         "default_popup": "index.html",
-        "default_icon": "icon.png"
+        "default_icon": "assets/logo.png"
     },
-    "permissions": [
-        "tabs"
-    ]
+    "permissions": ["tabs"]
 }
